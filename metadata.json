@@ -1,0 +1,5 @@
+{
+  "name": "Estúdio de Retratos IA",
+  "description": "Uma aplicação para transformar suas fotos. Troque a roupa e o cenário de uma pessoa em uma imagem usando o poder da IA generativa do Gemini.",
+  "requestFramePermissions": []
+}
